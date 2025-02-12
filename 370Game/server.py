@@ -3,6 +3,9 @@ import socketserver
 import webbrowser
 from sys import exit
 
+#command line to run: python3 -m http.server 8000
+#then http://localhost:8000
+
 try:
     PORT = 8000
 
